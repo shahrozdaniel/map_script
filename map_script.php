@@ -1,6 +1,6 @@
 <?php
 $message = '';
-$apiKey = 'AIzaSyAkjDuPIMw2dnytL5iF7ICxs_67KCFDBLg';
+$apiKey = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
